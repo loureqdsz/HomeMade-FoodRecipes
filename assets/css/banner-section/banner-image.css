@@ -1,0 +1,7 @@
+.banner-image {
+    width: 100%;
+    height: calc(100vh - 79px);
+    object-fit: cover;
+    object-position: -20% 0;
+    filter: brightness(0.8);
+}
